@@ -44,12 +44,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Screenshot 2025-04-30 105425](https://github.com/user-attachments/assets/171fa829-2498-4845-a986-72e355b97ecd)
-![Screenshot 2025-04-30 105519](https://github.com/user-attachments/assets/d358d624-2e4a-461c-9f48-f03a2fb12f3b)
-![Screenshot 2025-04-30 105546](https://github.com/user-attachments/assets/2969f74e-a47e-4006-af4c-cb80e5b41801)
-![Screenshot 2025-04-30 105546](https://github.com/user-attachments/assets/f38e72ff-e82a-4513-8fb1-4666267181e7)
-![Screenshot 2025-04-30 105546](https://github.com/user-attachments/assets/4a8ffe7f-429c-49a7-8d6c-d32be9a84103)
-![Screenshot 2025-04-30 105546](https://github.com/user-attachments/assets/9aa3c30f-19e3-48c0-995f-9826d01fcbd0)
+![Screenshot 2025-04-30 105630](https://github.com/user-attachments/assets/95204530-d845-4216-9040-a2e836ac7529)
 
 
 
